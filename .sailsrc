@@ -1,0 +1,11 @@
+{
+  "hooks": {
+  "orm": false,
+  "pubsub": false,
+  "grunt": false,
+  "i18n": false,
+  "session": false,
+  "csrf": false,
+  "skipper": false
+  }
+}
